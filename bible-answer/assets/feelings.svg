@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+<symbol id="feel-anger" viewBox="0 0 24 24"><path d="M4.2 19.8 19.8 4.8"/>
+<path d="M7.44 16.68L9.25 17.57L8.45 15.72ZM10.25 13.98L9.44 12.13L11.26 13.02ZM13.06 11.28L14.87 12.17L14.06 10.32ZM15.55 8.88L14.75 7.03L16.56 7.92Z" fill="currentColor"/>
+<path d="M19.2 5.4Q17.92 3.66 15.82 4.17Q17.1 5.91 19.2 5.4Z" opacity="0.5"/>
+<path d="M6.2 4.9 Q6.2 6.2 7.5 6.2 Q6.2 6.2 6.2 7.5 Q6.2 6.2 4.9 6.2 Q6.2 6.2 6.2 4.9 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-anxious" viewBox="0 0 24 24"><path d="M4.5 14.5h15l-2.4 3.3H6.9z"/>
+<path d="M12 14.5V4.5"/>
+<path d="M12 5.2c3 1.6 4.6 4.6 4.6 8H12"/>
+<path d="M12 7c-2.2 1.4-3.5 3.6-3.6 6.3H12" opacity="0.5"/>
+<path d="M2.5 20.6c1.6-1.2 3.3-1.2 4.9 0s3.3 1.2 4.9 0 3.3-1.2 4.9 0 3.3 1.2 4.3 0.4" opacity="0.5"/>
+<path d="M5.2 3.7 Q5.2 5.2 6.7 5.2 Q5.2 5.2 5.2 6.7 Q5.2 5.2 3.7 5.2 Q5.2 5.2 5.2 3.7 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-courage" viewBox="0 0 24 24"><path d="M5 19.5h14"/>
+<path d="M12 19.5v-8"/>
+<path d="M12 14.2c-2.9 0-4.7-1.9-4.7-4.6 2.9 0 4.7 1.9 4.7 4.6z"/>
+<path d="M12 11.6c0-3 1.9-5 5-5 0 3-1.9 5-5 5z"/>
+<path d="M9.2 21.8h5.6" opacity="0.5"/>
+<path d="M6 3.6 Q6 5 7.4 5 Q6 5 6 6.4 Q6 5 4.6 5 Q6 5 6 3.6 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-exhausted" viewBox="0 0 24 24"><path d="M8.6 21c.2-4.4 1-8.2 2.4-10.8 1.3-2.4 4-2.8 5.5-.8"/>
+<path d="M16.5 9.4c.7 1 1 2.3.8 3.6" stroke-width="2.2"/>
+<path d="M17.3 13l.1 1.4"/>
+<path d="M9.2 16.2c-1.9-.8-2.9-2.5-2.8-4.6 1.9.8 2.9 2.5 2.8 4.6z"/>
+<path d="M4 21h13" opacity="0.5"/>
+<path d="M18.6 3.5 Q18.6 4.8 19.9 4.8 Q18.6 4.8 18.6 6.1 Q18.6 4.8 17.3 4.8 Q18.6 4.8 18.6 3.5 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-forgiveness" viewBox="0 0 24 24"><rect x="3.4" y="14.2" width="8.4" height="4.4" rx="2.2" transform="rotate(-40 7.6 16.4)"/>
+<rect x="12.2" y="5.4" width="8.4" height="4.4" rx="2.2" transform="rotate(-40 16.4 7.6)"/>
+<path d="M11.2 11.4l-.9-.9M12.6 12.8l.9.9M10.8 13.4H9.6M13.2 10.6h1.2" opacity="0.5"/>
+<path d="M5.2 3.9 Q5.2 5.2 6.5 5.2 Q5.2 5.2 5.2 6.5 Q5.2 5.2 3.9 5.2 Q5.2 5.2 5.2 3.9 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-future" viewBox="0 0 24 24"><path d="M9.6 5.8c0-2 4.8-2 4.8 0"/>
+<path d="M8.4 6.6h7.2"/>
+<rect x="9" y="7.6" width="6" height="9.4" rx="1.6"/>
+<path d="M8.4 18.2h7.2"/>
+<path d="M12 14.6c-1.1-.9-1.1-2.3 0-3.7 1.1 1.4 1.1 2.8 0 3.7z" fill="currentColor"/>
+<path d="M5.4 10.4 4 9.6M5.4 13.2H3.8M18.6 10.4l1.4-.8M18.6 13.2h1.6" opacity="0.5"/>
+<path d="M6.5 21h11" opacity="0.5"/></symbol>
+<symbol id="feel-goodnews" viewBox="0 0 24 24"><path d="M4.6 20C8.4 16.8 12.6 11.4 17.6 5.2"/>
+<path d="M7.2 17.8Q5.23 15.1 2.18 16.45Q4.15 19.16 7.2 17.8ZM10.2 14.8Q13.53 15.56 15.09 12.52Q11.76 11.76 10.2 14.8ZM13 11.6Q11.28 8.74 8.11 9.82Q9.84 12.68 13 11.6ZM15.6 8.4Q18.51 9.36 20.11 6.76Q17.21 5.79 15.6 8.4ZM17.6 5.2Q19.85 4.3 19.5 1.91Q17.25 2.8 17.6 5.2Z" stroke-width="1.15"/>
+<circle cx="12.2" cy="16.4" r="1.15" fill="currentColor" stroke="none"/>
+<path d="M19.4 15.9 Q19.4 17.2 20.7 17.2 Q19.4 17.2 19.4 18.5 Q19.4 17.2 18.1 17.2 Q19.4 17.2 19.4 15.9 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-gratitude" viewBox="0 0 24 24"><path d="M6.2 8.2h11.6c0 4.4-2.5 6.8-5.8 6.8S6.2 12.6 6.2 8.2z"/>
+<path d="M12 15v4M8.6 19.6h6.8"/>
+<path d="M6.8 8.2c1.6-1.6 8.8-1.6 10.4 0" opacity="0.5"/>
+<path d="M6.3 8.6c-.9 1-1.1 2.2-.4 3"/>
+<path d="M17.7 8.6c.8.9 1 1.9.5 2.6" opacity="0.5"/>
+<path d="M12 2.4 Q12 3.8 13.4 3.8 Q12 3.8 12 5.199999999999999 Q12 3.8 10.6 3.8 Q12 3.8 12 2.4 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-guilt" viewBox="0 0 24 24"><path d="M12 3.5v17M4.6 7.75l14.8 8.5M4.6 16.25l14.8-8.5"/>
+<path d="M10.3 5.1 12 6.6l1.7-1.5M10.3 18.9l1.7-1.5 1.7 1.5" opacity="0.5"/>
+<path d="M5.6 10.2l2.2-.5-.6-2.2M18.4 13.8l-2.2.5.6 2.2M5.6 13.8l2.2.5-.6 2.2M18.4 10.2l-2.2-.5.6-2.2" opacity="0.5"/>
+<path d="M12 10.4 Q12 12 13.6 12 Q12 12 12 13.6 Q12 12 10.4 12 Q12 12 12 10.4 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-joy" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.4"/>
+<path d="M12 3.2v2.6M12 18.2v2.6M3.2 12h2.6M18.2 12h2.6"/>
+<path d="M5.8 5.8l1.4 1.4M16.8 16.8l1.4 1.4M5.8 18.2l1.4-1.4M16.8 7.2l1.4-1.4" opacity="0.5"/></symbol>
+<symbol id="feel-lonely" viewBox="0 0 24 24"><path d="M4.8 11.2 12 5l7.2 6.2"/>
+<path d="M6.6 9.8V19.5h10.8V9.8"/>
+<rect x="10.2" y="12.4" width="3.6" height="3.6" rx=".6" fill="currentColor" stroke="none"/>
+<path d="M3.5 19.5h17" opacity="0.5"/>
+<path d="M19.2 2.8000000000000003 Q19.2 4.2 20.599999999999998 4.2 Q19.2 4.2 19.2 5.6 Q19.2 4.2 17.8 4.2 Q19.2 4.2 19.2 2.8000000000000003 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-lost" viewBox="0 0 24 24"><path d="M7.5 21c0-3.4 8.5-3.2 8.5-6.8 0-3-6.6-2.6-6.6-5.6 0-1.6 1.6-2.4 3.2-2.4"/>
+<path d="M4.5 21h6" opacity="0.5"/>
+<path d="M17.6 2.8 Q17.6 5 19.8 5 Q17.6 5 17.6 7.2 Q17.6 5 15.400000000000002 5 Q17.6 5 17.6 2.8 Z" fill="currentColor" stroke="none" opacity="1"/>
+<path d="M20.4 8.4 Q20.4 9.4 21.4 9.4 Q20.4 9.4 20.4 10.4 Q20.4 9.4 19.4 9.4 Q20.4 9.4 20.4 8.4 Z" fill="currentColor" stroke="none" opacity="0.5"/></symbol>
+<symbol id="feel-money" viewBox="0 0 24 24"><path d="M4 15.6c0-5 3.6-8.2 8-8.2s8 3.2 8 8.2z"/>
+<path d="M9 10.4l1.4 2.1M12 9.6l1.4 2.3M15 10.4l1.2 1.9"/>
+<path d="M5.5 18.6h13" opacity="0.5"/>
+<path d="M8 21h8" opacity="0.5"/>
+<path d="M19 3.3 Q19 4.6 20.3 4.6 Q19 4.6 19 5.8999999999999995 Q19 4.6 17.7 4.6 Q19 4.6 19 3.3 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-morning" viewBox="0 0 24 24"><path d="M3 16.8h18"/>
+<path d="M7.4 16.8a4.6 4.6 0 0 1 9.2 0"/>
+<path d="M12 9.6V7.4M7.1 11.6 5.6 10.1M16.9 11.6l1.5-1.5M4.9 14.6H3.4M19.1 14.6h1.5"/>
+<path d="M6 19.8h12" opacity="0.5"/>
+<path d="M9 22.4h6" opacity="0.5"/></symbol>
+<symbol id="feel-overwhelmed" viewBox="0 0 24 24"><path d="M3.5 20.5h17"/>
+<path d="M5 20.5 8.6 12l2.2 2.4 3.4-7.6 5 13.7"/>
+<path d="M12.6 10.4l1.6 1.2" opacity="0.5"/>
+<path d="M8.6 12 7.8 14.4" opacity="0.5"/>
+<path d="M14.2 1.9 Q14.2 3.6 15.9 3.6 Q14.2 3.6 14.2 5.3 Q14.2 3.6 12.5 3.6 Q14.2 3.6 14.2 1.9 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-peace" viewBox="0 0 24 24"><path d="M15.6 3.8a4.2 4.2 0 1 0 3.7 6.4 3.4 3.4 0 1 1-3.7-6.4z"/>
+<path d="M3 15.2h18"/>
+<path d="M5.6 18.2h12.8" opacity="0.5"/>
+<path d="M8.4 21h7.2" opacity="0.3"/>
+<path d="M15.4 16.6h3" opacity="0.6"/></symbol>
+<symbol id="feel-praise" viewBox="0 0 24 24"><path d="M8.2 18.6C6.1 15.2 5.6 10.4 7 6.6c.4-1.1-.2-2-1.2-2"/>
+<path d="M15.8 18.6c2.1-3.4 2.6-8.2 1.2-12-.4-1.1.2-2 1.2-2"/>
+<path d="M7.1 8.2h9.8"/>
+<path d="M8.2 18.6h7.6c0 1.4-1.7 2.4-3.8 2.4s-3.8-1-3.8-2.4z"/>
+<path d="M10.2 8.4l.5 10M12 8.4v10M13.8 8.4l-.5 10" opacity="0.5"/></symbol>
+<symbol id="feel-selfworth" viewBox="0 0 24 24"><path d="M9.2 4.5h5.6"/>
+<path d="M9.8 4.5c0 1.6-.6 2.4-1.8 3.5C6.2 9.6 5.6 12 6.1 14.6 6.8 18 9 20 12 20s5.2-2 5.9-5.4c.5-2.6-.1-5-1.9-6.6-1.2-1.1-1.8-1.9-1.8-3.5"/>
+<path d="M8 9.8c1.2.6 2.5.9 4 .9s2.8-.3 4-.9" opacity="0.5"/>
+<path d="M12 12.2 Q12 14.6 14.4 14.6 Q12 14.6 12 17.0 Q12 14.6 9.6 14.6 Q12 14.6 12 12.2 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+<symbol id="feel-trust" viewBox="0 0 24 24"><path d="M3.5 18.6c5.4-1.4 11.6-1.4 17 0"/>
+<path d="M7.2 15.6c0-3.4 2.6-5.8 5.8-5.8.6-1.6 2.2-2.4 3.7-1.7l1.8.5-1.6 1c.3 3.6-2.2 6-6 6.4-1.3.1-2.6-.1-3.7-.4z"/>
+<path d="M9.4 12.4c1.4 1.2 3.4 1.4 5 .4" opacity="0.5"/>
+<path d="M11.5 16.4l-.3 1.8M14 16l.2 1.9"/>
+<path d="M5.2 4.199999999999999 Q5.2 5.6 6.6 5.6 Q5.2 5.6 5.2 7.0 Q5.2 5.6 3.8000000000000003 5.6 Q5.2 5.6 5.2 4.199999999999999 Z" fill="currentColor" stroke="none" opacity="1"/></symbol>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artypeace.github.io/bible-answer/sitemap.xml
